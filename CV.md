@@ -16,53 +16,56 @@ Over 10 years of professional experience. C++ expert, worked on both video games
 
 ## WORK EXPERIENCE
 
-### Senior Programmer - *JAGEX*
+### Senior Programmer - *JAGEX* / *December 2012 - Present*
+__Transformers Universe__ - 3D MOBA
++ implemented Grouping functionality (standalone service and its interactions with the game)
++ helped write the Matchmaking service
++ in charge of the Skill-score points system
++ re-factored and optimized the levelling up and XP system
++ fixed message passing and interactions between server and client 
+  
+### Technical Director - *GAMBIT SOFTWARE* / *January 2011 - September 2012*
+Small indie company that I co-founded with a friend.
++ helped running it from day 1, being involved in all everyday tasks from technical to managerial
++ a casino purposed __Horse Racing__ game, 2D/3D PC simulation
++ contract work for __Goom Radio__, France, and for __Coca-Cola Hellenic__
 
-*December 2012 - Present*
+### Senior Programmer - *GAMELOFT* / *September 2009 - January 2011*
+__Tom Clancy's Splinter Cell__ - iOS/Android 3D action/stealth
++ fixed pipeline OpenGL graphics features like fog effects, night and thermal vision
++ implemented sniper rifles
++ world editor enhancements
 
-*Jagex* are best known for *RuneScape*, the world's largest free-to-play MMORPG. Currently I'm working on a whole different project:
+__N.O.V.A__ - iOS/Android FPS
++ various gameplay fixes
++ implemented an in-game proprietary online store
 
-__Transformers Universe__ - a 3D MOBA game based on the popular Transformers franchise. I am a _game engine developer_ dealing with server side infrastructure. I started working on the Chat infrastructure and VOIP system. Then the game changed tech and now I work closely on the Matchmaking and Grouping Servers.
+__Asphalt 5__ - iOS 3D racer
++ the demo version of the game (stripped assets, prepared special build)
 
-### Technical Director - *GAMBIT SOFTWARE*
+### (Lead) Programmer - *NEWROSOFT R&D* / *August 2004 - November 2007* (with break)
 
-*January 2011 - September 2012*
+__Cheggers Party Quiz__ - Nintendo DS
++ learned the Nintendo specific SDK and prepared wrappers around it
 
-Small indie company that I co-founded with a friend. I helped running it from day 1, being involved in all everyday tasks from technical to managerial. Projects of note:
+__Shopping Dash__ - PC 2D casual strategy and time management
++ acting as team lead and worked on the gameplay, AI, map editor and scripting.
 
-a __Horse Racing__ game for a casino in the Republic of Ireland - a 2D/3D PC game that simulates horse races gambling. We also did contract work for __Goom Radio__, France - and for __Coca-Cola Hellenic__.
+__The Da Vinci Code__ - PC 2D/3D adventure, match-3
++ responsible of converting it from OpenGL to DirectX.
 
-### Senior Programmer - *GAMELOFT*
+__Bewitched__ - PC 2D adventure, match-3
++ implemented the main match-3 mechanic, board fill algorithms
 
-*September 2009 - January 2011*
+unreleased __Age of Mourning__ - MMO
++ worked on various stages of the project
++ tried to port it to Torque 3D
 
-A leading global publisher of video and social games, Gameloft creates content for all digital platforms, specializing on smartphones and tablets. I worked the iOS versions of: (recent/bigger projects first)
+### Programmer - Quake 3 Arena modding / *2002 – 2003*
 
-__Tom Clancy's Splinter Cell__ - I worked on various features like fog effects, night and thermal vision, sniper rifles and world editor enhancements.
-
-__N.O.V.A__ - Besides other things, I was chiefly involved in implementing an in-game proprietary online store.
-
-__Asphalt 5__ - I joined towards the end of the project, being in charge of the demo version.
-
-### (Lead) Programmer - *NEWROSOFT RESEARCH & DEVELOPMENT*
-
-*August 2004 - November 2007* (with a break)
-
-Various projects for this company that did contract work for the likes of _Sony Online Entertainment_:
-
-__Shopping Dash__ - casual strategy and time management game; I was acting as team lead and worked on the gameplay, AI, map editor and scripting.
-
-__The Da Vinci Code__ - an adventure, match-3 game based on the popular book and film, I was responsible of converting it from OpenGL to DirectX.
-
-__Bewitched__ - a game based on the hit TV series, I implemented the main match-3 mechanic, board fill algorithms and other various gameplay features.
-
-some unreleased projects like the Nintendo DS game __Cheggers Party Quiz__ and one of the first MMO attempts __Age of Mourning__
-
-### Programmer - Quake 3 Arena modding
-
-*2002 – 2003*
-
-Freelance work on a total-conversion of Quake 3 Arena for IMU Studios in Canada. I worked on integrating new features like inventory and new powerups items. I worked directly on the coding keeping in touch with the other members of the team via IRC.
+Freelance work on a total-conversion of Quake 3 Arena for IMU Studios in Canada.
++ integrating new engine features like inventory and different powerups items.
++ keeping in touch and planning with the other members of the team via IRC.
 
 ### Personal Projects
 
