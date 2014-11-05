@@ -10,20 +10,21 @@ Over 10 years of professional experience. C++ expert, worked on both video games
 + advanced C++03 and C++11, fluent in C#
 + 3D Graphics concepts and algorithms - proficient in _OpenGL_
 + gameplay programming techniques
-+ knowledge about _multithreaded_ and _network_ environments
++ experienced in _multithreaded_ and _network_ environments
 + beginner in _Unreal Engine 4_, advanced _Unity 3D_
-+ know a lot about _Perfoce_, _Git_ and _3D Studio Max_. Can manage myself in Jira or Hansoft.
++ know a lot about _Perfoce_, _Git_ and _3D Studio Max_.
 + ability to write clean, maintainable and modular source code.
++ excellent social skills, enjoy pair programming and peer reviews
 
 ## WORK EXPERIENCE
 
-### Senior Programmer - *JAGEX* / *December 2012 - Present*
+### Game Engine Developer - *JAGEX* / *December 2012 - Present*
 __Transformers Universe__ - 3D MOBA
-+ implemented Player Groups functionality
-+ helped write the Matchmaking service
-+ in charge of the Skill-score points system
++ assisted development of key infrastructure systems like: savegame system, matchmaking, player groups
 + re-factored and optimized the levelling up and XP system
-+ gameplay related interactions between server and client 
++ gameplay related interactions between server and client
++ lend a helping hand the VFX department with a robust shader system
++ did a bit of R&D of more complex graphical effects
   
 ### Technical Director - *GAMBIT SOFTWARE* / *January 2011 - September 2012*
 Small indie company that I co-founded with a friend.
