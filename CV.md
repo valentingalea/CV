@@ -45,8 +45,7 @@ __N.O.V.A__ - iOS/Android FPS
 __Asphalt 5__ - iOS 3D racer
 + the demo version of the game (stripped assets, prepared special build)
 
-### (Lead) Programmer - *NEWROSOFT R&D* / *August 2004 - November 2007* (with break)
-
+### Lead Programmer - *NEWROSOFT R&D* / *July 2006 - November 2007*
 __Cheggers Party Quiz__ - Nintendo DS
 + learned the Nintendo specific SDK and prepared wrappers around it
 
@@ -59,9 +58,13 @@ __The Da Vinci Code__ - PC 2D/3D adventure, match-3
 __Bewitched__ - PC 2D adventure, match-3
 + implemented the main match-3 mechanic, board fill algorithms
 
+### Programmer - *NEWROSOFT R&D* / *August 2004 - July 2006*
 unreleased __Age of Mourning__ - MMO
 + worked on various stages of the project
 + tried to port it to Torque 3D
+
+__Tom Clancy's: Rainbow Six 3__ - J2ME 2D Action Shooter
++ optimised framerate and player targeting system
 
 ### Programmer - Quake 3 Arena modding / *2002 – 2003*
 
