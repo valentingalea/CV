@@ -1,6 +1,6 @@
-﻿# VALENTIN GALEA
+# VALENTIN GALEA
 
-Cambridge, United Kingdom / valentin.galea@gmail.com / https://github.com/valentingalea/
+London, United Kingdom / valentin.galea@gmail.com / https://github.com/valentingalea/
 
 ## SUMMARY
 
@@ -8,20 +8,25 @@ Over 10 years of professional experience. C++ expert, worked on both video games
 
 *Skill-set*
 + advanced C++03 and C++11, fluent in C#
-+ 3D Graphics concepts and algorithms - proficient in _OpenGL_
-+ gameplay programming techniques
++ 3D Graphics concepts and algorithms
 + experienced in _multithreaded_ and _network_ environments
-+ beginner in _Unreal Engine 4_, advanced _Unity 3D_
++ advanced in _Unreal Engine 3_, beginner in _Unreal 4_
 + know a lot about _Perfoce_, _Git_ and _3D Studio Max_.
 + ability to write clean, maintainable and modular source code.
 + excellent social skills, enjoy pair programming and peer reviews
 
 ## WORK EXPERIENCE
 
-### Game Engine Developer - *JAGEX* / *December 2012 - Present*
+### Senior Core-Tech Programmer - *Splash Damage* / *January 2015 - present*
+__Gears Of War Ultimate Edition__ - Xbox One
++ VFX and Tech Art support
++ implemented GPU rain and weather system
++ "stitching tool" for mesh instancing
++ ownership of the memory system of Unreal Engine 3: optimisations, tracking and custom tools
+
+### Game Engine Developer - *JAGEX* / *December 2012 - December 2014*
 __Transformers Universe__ - 3D MOBA
-+ assisted development of key infrastructure systems like: savegame system, matchmaking, player groups
-+ re-factored and optimized the levelling up and XP system
++ assisted development of low level infrastructure systems like: savegames, matchmaking, player groups, levelling and XP
 + gameplay related interactions between server and client
 + lend a helping hand the VFX department with a robust shader system
 + did a bit of R&D of more complex graphical effects
