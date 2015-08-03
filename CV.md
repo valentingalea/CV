@@ -1,4 +1,4 @@
-# VALENTIN GALEA
+﻿# VALENTIN GALEA
 
 London, United Kingdom / valentin.galea@gmail.com / https://github.com/valentingalea/
 
@@ -78,7 +78,8 @@ Freelance work on a total-conversion of Quake 3 Arena for IMU Studios in Canada.
 + keeping in touch and planning with the other members of the team via IRC.
 
 ### Personal Projects
+[/shaderbox](http://valentingalea.github.io/shaderbox/) - Advanced shader effects, experiments with raytracing and raymarching - Open Source
 
-[valentingalea.github.com/android-3d-engine/](http://valentingalea.github.io/android-3d-engine/) - 3D engine tech study for Android devices, features light and shadow mapping exercises along with a race track generator – Open Source
+[/android-3d-engine](http://valentingalea.github.io/android-3d-engine/) - 3D engine tech study for Android devices, features light and shadow mapping exercises along with a race track generator – Open Source
 
-[valentingalea.github.com/newpas/](http://valentingalea.github.io/newpas/) - Tech-demo of a Pascal language compiler with custom VM execution that is used as a scripting language for an OpenGL car physics experiment – Open Source
+[/newpas](http://valentingalea.github.io/newpas/) - Tech-demo of a Pascal language compiler with custom VM execution that is used as a scripting language for an OpenGL car physics experiment – Open Source
