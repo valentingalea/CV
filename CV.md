@@ -11,33 +11,31 @@ Over 10 years of professional experience. C++ expert, PC, console and mobile dev
 + 3D Graphics concepts and algorithms
 + knowledge of _multithreaded_ and _network_ programming
 + experience in _Unreal Engine 3_ and in _Unreal 4_
-+ know a lot about _Perfoce_, _Git_ and _3D Studio Max_.
 + ability to write clean, maintainable and modular source code.
 + excellent social skills, enjoy pair programming and peer reviews
 
 ## WORK EXPERIENCE
 
-### Senior Core-Tech Programmer - *Splash Damage* / *January 2015 - present*
+### Senior Core-Tech Programmer - *Splash Damage* / January 2015 - present
 __Gears Of War Ultimate Edition__ - Xbox One
-+ VFX and Tech Art support
++ VFX and Tech Art support: particle systems, editor enhancements
 + implemented GPU rain and weather system
-+ "stitching tool" for mesh instancing
++ assisted with the "stitching tool" for mesh instancing
 + ownership of the memory system of Unreal Engine 3: optimisations, tracking and custom tools
 
-### Game Engine Developer - *JAGEX* / *December 2012 - December 2014*
+### Game Engine Developer - *JAGEX* / December 2012 - December 2014
 __Transformers Universe__ - PC, 3D MOBA
 + assisted development of low level infrastructure systems like: savegames, matchmaking, player groups, levelling and XP
-+ gameplay related interactions between server and client
 + lend a helping hand the VFX department with a robust shader system
 + did a bit of R&D of more complex graphical effects
   
-### Technical Director - *GAMBIT SOFTWARE* / *January 2011 - September 2012*
+### Technical Director - *GAMBIT SOFTWARE* / January 2011 - September 2012
 Small indie company that I co-founded with a friend.
 + helped running it from day 1, being involved in all everyday tasks from technical to managerial
 + a casino purposed __Horse Racing__ game, 2D/3D PC simulation
 + contract work for __Goom Radio__, France, and for __Coca-Cola Hellenic__
 
-### Senior Programmer - *GAMELOFT* / *September 2009 - January 2011*
+### Senior Programmer - *GAMELOFT* / September 2009 - January 2011
 __Tom Clancy's Splinter Cell__ - iOS/Android, 3D action/stealth
 + fixed pipeline OpenGL graphics features like fog effects, night and thermal vision
 + implemented sniper rifles
@@ -50,7 +48,7 @@ __N.O.V.A__ - iOS/Android, FPS
 __Asphalt 5__ - iOS, 3D racer
 + the demo version of the game (stripped assets, prepared special build)
 
-### Lead Programmer - *NEWROSOFT R&D* / *July 2006 - November 2007*
+### Lead Programmer - *NEWROSOFT R&D* / July 2006 - November 2007
 __Cheggers Party Quiz__ - Nintendo DS
 + learned the Nintendo specific SDK and prepared wrappers around it
 
@@ -63,7 +61,7 @@ __The Da Vinci Code__ - PC, 2D/3D adventure, match-3
 __Bewitched__ - PC, 2D adventure, match-3
 + implemented the main match-3 mechanic, board fill algorithms
 
-### Programmer - *NEWROSOFT R&D* / *August 2004 - July 2006*
+### Programmer - *NEWROSOFT R&D* / August 2004 - July 2006
 unreleased __Age of Mourning__ - MMO
 + worked on various stages of the project
 + tried to port it to Torque 3D
@@ -71,7 +69,7 @@ unreleased __Age of Mourning__ - MMO
 __Tom Clancy's: Rainbow Six 3__ - J2ME, 2D Action Shooter
 + optimised framerate and player targeting system
 
-### Programmer - Quake 3 Arena modding / *2002 – 2003*
+### Programmer - Quake 3 Arena modding / 2002 – 2003
 
 Freelance work on a total-conversion of Quake 3 Arena for IMU Studios in Canada.
 + integrating new engine features like inventory and different powerups items.
