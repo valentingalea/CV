@@ -1,16 +1,16 @@
-﻿# VALENTIN GALEA
+# VALENTIN GALEA
 
 London, United Kingdom / valentin.galea@gmail.com / https://github.com/valentingalea/
 
 ## SUMMARY
 
-Over 10 years of professional experience. C++ expert, worked on both video games and applications, PC and mobile development. 
+Over 10 years of professional experience. C++ expert, PC, console and mobile development. 
 
 *Skill-set*
 + advanced C++03 and C++11, fluent in C#
 + 3D Graphics concepts and algorithms
-+ experienced in _multithreaded_ and _network_ environments
-+ advanced in _Unreal Engine 3_, beginner in _Unreal 4_
++ knowledge of _multithreaded_ and _network_ programming
++ experience in _Unreal Engine 3_ and in _Unreal 4_
 + know a lot about _Perfoce_, _Git_ and _3D Studio Max_.
 + ability to write clean, maintainable and modular source code.
 + excellent social skills, enjoy pair programming and peer reviews
@@ -25,7 +25,7 @@ __Gears Of War Ultimate Edition__ - Xbox One
 + ownership of the memory system of Unreal Engine 3: optimisations, tracking and custom tools
 
 ### Game Engine Developer - *JAGEX* / *December 2012 - December 2014*
-__Transformers Universe__ - 3D MOBA
+__Transformers Universe__ - PC, 3D MOBA
 + assisted development of low level infrastructure systems like: savegames, matchmaking, player groups, levelling and XP
 + gameplay related interactions between server and client
 + lend a helping hand the VFX department with a robust shader system
@@ -38,29 +38,29 @@ Small indie company that I co-founded with a friend.
 + contract work for __Goom Radio__, France, and for __Coca-Cola Hellenic__
 
 ### Senior Programmer - *GAMELOFT* / *September 2009 - January 2011*
-__Tom Clancy's Splinter Cell__ - iOS/Android 3D action/stealth
+__Tom Clancy's Splinter Cell__ - iOS/Android, 3D action/stealth
 + fixed pipeline OpenGL graphics features like fog effects, night and thermal vision
 + implemented sniper rifles
 + world editor enhancements
 
-__N.O.V.A__ - iOS/Android FPS
+__N.O.V.A__ - iOS/Android, FPS
 + various gameplay fixes
 + implemented an in-game proprietary online store
 
-__Asphalt 5__ - iOS 3D racer
+__Asphalt 5__ - iOS, 3D racer
 + the demo version of the game (stripped assets, prepared special build)
 
 ### Lead Programmer - *NEWROSOFT R&D* / *July 2006 - November 2007*
 __Cheggers Party Quiz__ - Nintendo DS
 + learned the Nintendo specific SDK and prepared wrappers around it
 
-__Shopping Dash__ - PC 2D casual strategy and time management
+__Shopping Dash__ - PC, 2D casual strategy and time management
 + acting as team lead and worked on the gameplay, AI, map editor and scripting.
 
-__The Da Vinci Code__ - PC 2D/3D adventure, match-3
+__The Da Vinci Code__ - PC, 2D/3D adventure, match-3
 + responsible of converting it from OpenGL to DirectX.
 
-__Bewitched__ - PC 2D adventure, match-3
+__Bewitched__ - PC, 2D adventure, match-3
 + implemented the main match-3 mechanic, board fill algorithms
 
 ### Programmer - *NEWROSOFT R&D* / *August 2004 - July 2006*
@@ -68,7 +68,7 @@ unreleased __Age of Mourning__ - MMO
 + worked on various stages of the project
 + tried to port it to Torque 3D
 
-__Tom Clancy's: Rainbow Six 3__ - J2ME 2D Action Shooter
+__Tom Clancy's: Rainbow Six 3__ - J2ME, 2D Action Shooter
 + optimised framerate and player targeting system
 
 ### Programmer - Quake 3 Arena modding / *2002 – 2003*
@@ -77,9 +77,9 @@ Freelance work on a total-conversion of Quake 3 Arena for IMU Studios in Canada.
 + integrating new engine features like inventory and different powerups items.
 + keeping in touch and planning with the other members of the team via IRC.
 
-### Personal Projects
-[/shaderbox](http://valentingalea.github.io/shaderbox/) - Advanced shader effects, experiments with raytracing and raymarching - Open Source
+### Personal Projects - Open Source
+[/shaderbox](http://valentingalea.github.io/shaderbox/) - Advanced shader effects, experiments with raytracing and raymarching
 
-[/android-3d-engine](http://valentingalea.github.io/android-3d-engine/) - 3D engine tech study for Android devices, features light and shadow mapping exercises along with a race track generator – Open Source
+[/android-3d-engine](http://valentingalea.github.io/android-3d-engine/) - 3D engine tech study for Android devices
 
-[/newpas](http://valentingalea.github.io/newpas/) - Tech-demo of a Pascal language compiler with custom VM execution that is used as a scripting language for an OpenGL car physics experiment – Open Source
+[/newpas](http://valentingalea.github.io/newpas/) - Scripting language (Pascal) experiments: full compiler, VM, game integration
